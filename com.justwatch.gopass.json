@@ -4,6 +4,6 @@
     "path": "/home/doron/.config/gopass/native-messaging.sh",
     "type": "stdio",
     "allowed_extensions": [
-        "gopass@0.7.0"
+        "{eec37db0-22ad-4bf1-9068-5ae08df8c7e9}"
     ]
 }
