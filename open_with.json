@@ -1,9 +1,0 @@
-{
-	"allowed_extensions": [
-		"openwith@darktrojan.net"
-	],
-	"description": "Open With native host",
-	"name": "open_with",
-	"path": "/var/src/openwith/webextension/native/open_with_linux.py",
-	"type": "stdio"
-}
